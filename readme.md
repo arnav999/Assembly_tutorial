@@ -1,3 +1,3 @@
 # demo 2
 
-kdhjkdj
+this repo contains assembly tutorial
