@@ -1,3 +1,3 @@
-# demo 2
+# Assembly Tutorial
 
 this repo contains assembly tutorial
