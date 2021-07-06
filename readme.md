@@ -15,3 +15,4 @@ There are many, many types of assembly languages. The current most popular are A
 
 1) X86 (programmed for intel processors).
 2) Arm assembly(programmed for arm chips).
+3) Avr assembly
